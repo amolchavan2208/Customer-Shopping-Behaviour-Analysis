@@ -97,10 +97,6 @@ The dashboard presents customer purchasing patterns interactively so they are ea
 - Customer review ratings and seasonal purchasing patterns
 - Subscription status and previous-purchase behaviour
 
-![Power BI Dashboard](images/powerbi_dashboard.png)
-
-> Add your dashboard screenshot as `images/powerbi_dashboard.png` so the image displays here.
-
 ## 8. Business Recommendations
 
 These are potential recommendations based on the types of analysis performed; their effectiveness must be evaluated against actual results and additional business data.
